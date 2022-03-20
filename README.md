@@ -12,7 +12,7 @@ npm:
 npm install
 ```
 
-Yarn
+yarn
 ```
 yarn
 ```
